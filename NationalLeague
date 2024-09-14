@@ -1,4 +1,28 @@
 <tv generator-info-name="none" generator-info-url="none">
+<channel id="National League Teams 2024/25">
+<display-name lang="en">National League Teams 2024/25</display-name>
+<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20250730215959 +0000" channel="National League Teams 2024/25">
+<title lang="en">National League Teams</title>
+<desc lang="en">This Section Will Show League + Cup Games For All 2024/25 National League Games</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20250730215959 +0000" channel="National League Teams 2024/25">
+<title lang="en">National League Teams</title>
+<desc lang="en">This Section Will Show League + Cup Games For All 2024/25 National League Games</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20250730215959 +0000" channel="National League Teams 2024/25">
+<title lang="en">National League Teams</title>
+<desc lang="en">This Section Will Show League + Cup Games For All 2024/25 National League Games</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20250730215959 +0000" channel="National League Teams 2024/25">
+<title lang="en">National League Teams</title>
+<desc lang="en">This Section Will Show League + Cup Games For All 2024/25 National League Games</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20250730215959 +0000" channel="National League Teams 2024/25">
+<title lang="en">National League Teams</title>
+<desc lang="en">This Section Will Show League + Cup Games For All 2024/25 National League Games</desc>
+</programme>
 <channel id="AFC Flyde">
 <display-name lang="en">AFC Flyde</display-name>
 <icon src="https://archive.org/download/AFC Flyde_202309/AFC Flyde.jpg"/>
